@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5e9161e-5312-4bbe-969e-80ef96b9428c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="7c91db96-2bc0-415f-ab37-be7749a3e0cf" />
+  <component name="ProjectId" id="1WzJ3LgKpg8ZbydOzAZIEnl9cd1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/fish_percepetron.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Assingment2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fish_percepetron" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Assingment2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\gchme\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fish_percepetron.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5e9161e-5312-4bbe-969e-80ef96b9428c" name="Default Changelist" comment="" />
+      <created>1580146289366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580146289366</updated>
+      <workItem from="1580146295365" duration="1148000" />
+      <workItem from="1580147637675" duration="1101000" />
+      <workItem from="1580156441062" duration="6951000" />
+      <workItem from="1580251149053" duration="1635000" />
+      <workItem from="1580253880596" duration="461000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580147419305">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580147419305" />
+    <state x="93" y="100" width="774" height="847" key="DiffContextDialog" timestamp="1580147322204">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="93" y="100" width="774" height="847" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580147322204" />
+    <state x="326" y="279" key="FileChooserDialogImpl" timestamp="1580146597172">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="326" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580146597172" />
+    <state x="0" y="167" key="SettingsEditor" timestamp="1580147302698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="167" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580147302698" />
+    <state width="487" height="523" key="XDebugger.FullValuePopup" timestamp="1580148238865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="487" height="523" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1580148238865" />
+    <state x="1028" y="0" width="899" height="1047" key="dock-window-1" timestamp="1580254328770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1028" y="0" width="899" height="1047" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1580254328770" />
+  </component>
+</project>
